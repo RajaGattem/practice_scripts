@@ -9,7 +9,7 @@
 
 mkdir countries
 cd countries
-mkdir USA India Uk
+mkdir USA India UK
 echo "Washington, D.C" > USA/captial.txt
 echo "London" > UK/Capital.txt
 echo "New Delhi" > India/capital.txt
@@ -21,4 +21,4 @@ uptime
 #bash create-directory-structure.sh      : run the script 
 
 
-echo "The task is done"
+echo "The task is successfully done"
